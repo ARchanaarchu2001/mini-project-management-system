@@ -260,6 +260,7 @@ textarea {
 .section-intro {
   display: grid;
   gap: 8px;
+  justify-items: start;
 }
 
 .section-intro h2 {
